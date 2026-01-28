@@ -33,7 +33,7 @@ This document lists the major bugs identified and fixed during development and t
 ### Bug 1.4 – JWT token verification failed  
 - **Issue:** Backend rejected valid tokens  
 - **Root Cause:** `.env` file not created from `.env.example`  
-- **Fix:** Proper JWT secret configured  
+- **Fix:** Proper JWT secret configured 
 - **File:** .env  
 
 ---
