@@ -79,7 +79,6 @@ Frontend runs on: `http://localhost:5173`
 - The database uses SQLite - no external database setup required
 - Run `npm run init-db` to reset the database to initial state
 
-
 ## Assignment Implementation Notes
 
 ### Feature A: Real-time Distance Calculation
